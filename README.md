@@ -1,6 +1,8 @@
 # gopher-get
 
-This is a lightweight basic version of GNU `wget` written purely in <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="200" height="200" alt="Go" /></a>
+This is a lightweight basic version of GNU `wget` written purely in 
+
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="200" height="200" alt="Go" /></a>
 
 ## Implemented Options
 
