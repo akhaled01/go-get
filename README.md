@@ -18,4 +18,4 @@ This is a lightweight basic version of GNU `wget` written purely in
 * Multiple different external repositories were used, such as `github.com/progressbar/v3` for progress bar functionality.
 * The project tried to use as much of the stdlibs as possible, but had to resort to external packages for some functionality like HTML parsing.
 
-### Written By akhaled
+### Written By akhaled01
