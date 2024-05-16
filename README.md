@@ -1,4 +1,4 @@
-# gopher-get
+# go-get
 
 This is a lightweight basic version of GNU `wget` written purely in 
 
